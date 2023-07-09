@@ -21,7 +21,7 @@ jobs:
         src_branch: master
         src_path: build/js/_variables.js
         # Replace with your repository owner. Most likely, this is your GitHub username.
-        dst_owner: michaelmang
+        dst_owner: jhankevin
         dst_repo_name: consume-style-dictionary-github-actions
         # You may need to change this to "main"
         dst_branch: master
